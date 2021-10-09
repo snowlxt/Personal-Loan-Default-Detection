@@ -9,3 +9,6 @@ This project will explore the types of customers that default on loans in peer-t
 * Data source: LendingClub
 * Time span: 2013 - 2017
 * Shape: 74 columns, 887,379 rows
+* Link: https://www.kaggle.com/husainsb/lendingclub-issued-loans
+
+

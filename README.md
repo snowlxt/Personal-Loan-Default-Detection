@@ -1,5 +1,5 @@
 # Personal-Loan-Default-Detection
-                     ![0_lAkevA6upQBq-NCk](https://user-images.githubusercontent.com/62194058/136675162-74e514ec-f6d2-4972-9110-74737937a999.jpeg)
+![0_lAkevA6upQBq-NCk](https://user-images.githubusercontent.com/62194058/136675162-74e514ec-f6d2-4972-9110-74737937a999.jpeg)
 
 
 ## Overview
